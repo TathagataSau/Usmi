@@ -8,7 +8,7 @@
   <h1 style="color:rgb(143, 20, 143)">She has a cute angelic smile</h1>
         <h1 style="color:cornsilk"> Dil ye mera Dance kare, when she is talking to me </h1>
         <h2 style="color:darkseagreen">you can't miss her voice from even a crowd of million people</h2>
-        <p style="color:rgb(82, 170, 55)">ওই তুই আমাকে ভুল বুঝিসনা  দয়া করে। আসলে আমি তোর সম্পর্কে কিছু না জেনেই  তোকে কথাগুলো বলে ফেললাম। তুই ও হয়তো অন্য কাউকে ভালোবাসিস বা হয়তো আমার মতোই অন্য কাউকে পছন্দ করিস বা এইসব একেবারে পছন্দ করিসনা। 
+        <p style="color:rgb(82, 170, 55)">A day that is void of your voice is to mean an incomplete one. For with your voice comes the soul melting laughter which is all I need to have a great and happy day. I hope mine makes you feel the same way. love your charming voice,cherry-like smile,eyes like deep ocean ,smile like blooming rose, attitude like soothing setting sunlight, conversation like bed of cherry blossoms, and you are be the only angel I could ever ask for🥰🥰.  
         <p>
 
   <p style="color:rgb(245, 210, 14)">Why are you so beautiful?🥰
