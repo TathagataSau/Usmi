@@ -1,4 +1,3 @@
-# Ayusmita
 <html>
     <head><link rel="stylesheet" href="oo.css">
         <title>Ayusmita's first html</title>
