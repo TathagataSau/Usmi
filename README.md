@@ -3,7 +3,7 @@
         <title>Ayusmita's first html</title>
     </head>
     <body>
-       <h1 style="color:chocolate"> <marquee behaviour="scroll" direction="left">I'm Teaching usmi something, even I dont't know</marquee></h1>
+       <h1 style="color:chocolate"> <marquee behaviour="scroll" direction="left">I'm Teaching usmi something, even I don't know</marquee></h1>
 
   <h1 style="color:rgb(143, 20, 143)">She has a cute angelic smile</h1>
         <h1 style="color:cornsilk"> Dil ye mera Dance kare, when she is talking to me </h1>
